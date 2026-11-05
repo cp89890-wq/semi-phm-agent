@@ -1,0 +1,2 @@
+{"id": "cmp-000", "case": "cmp", "query": "(예시) WAFER_ID ___ STAGE ___ 의 제거율이 평균보다 낮은 이유는?", "context": {}, "truth_vars": [], "truth_note": "1단계 끝나고 채운다"}
+{"id": "ionmill-000", "case": "ionmill", "query": "(예시) 장비 ___ 의 time ___ 구간에서 고장이 임박했는지, 어떤 센서가 근거인지?", "context": {}, "truth_vars": [], "truth_note": "1단계 끝나고 채운다"}
